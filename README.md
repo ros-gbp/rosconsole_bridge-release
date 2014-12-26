@@ -1,3 +1,24 @@
+## rosconsole_bridge (jade) - 0.4.2-0
+
+The packages in the `rosconsole_bridge` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade rosconsole_bridge` on `Fri, 26 Dec 2014 19:54:20 -0000`
+
+The `rosconsole_bridge` package was released.
+
+Version of package(s) in repository `rosconsole_bridge`:
+- upstream repository: https://github.com/ros/rosconsole_bridge.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `None-0`
+- new version: `0.4.2-0`
+
+Versions of tools used:
+- bloom version: `0.5.16`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## rosconsole_bridge (indigo) - 0.4.2-0
 
 The packages in the `rosconsole_bridge` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo rosconsole_bridge` on `Fri, 18 Jul 2014 19:08:46 -0000`
