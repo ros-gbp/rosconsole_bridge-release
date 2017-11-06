@@ -1,3 +1,26 @@
+## rosconsole_bridge (kinetic) - 0.5.1-0
+
+The packages in the `rosconsole_bridge` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic rosconsole_bridge` on `Mon, 06 Nov 2017 16:52:34 -0000`
+
+The `rosconsole_bridge` package was released.
+
+Version of package(s) in repository `rosconsole_bridge`:
+
+- upstream repository: https://github.com/ros/rosconsole_bridge.git
+- release repository: https://github.com/ros-gbp/rosconsole_bridge-release.git
+- rosdistro version: `0.5.0-0`
+- old version: `0.5.0-0`
+- new version: `0.5.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.1`
+- catkin_pkg version: `0.3.8`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## rosconsole_bridge (kinetic) - 0.5.0-0
 
 The packages in the `rosconsole_bridge` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic rosconsole_bridge` on `Thu, 02 Nov 2017 22:19:08 -0000`
