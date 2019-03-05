@@ -1,3 +1,26 @@
+## rosconsole_bridge (melodic) - 0.5.3-0
+
+The packages in the `rosconsole_bridge` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic rosconsole_bridge` on `Tue, 05 Mar 2019 00:03:38 -0000`
+
+The `rosconsole_bridge` package was released.
+
+Version of package(s) in repository `rosconsole_bridge`:
+
+- upstream repository: https://github.com/ros/rosconsole_bridge.git
+- release repository: https://github.com/ros-gbp/rosconsole_bridge-release.git
+- rosdistro version: `0.5.2-0`
+- old version: `0.5.2-0`
+- new version: `0.5.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## rosconsole_bridge (kinetic) - 0.5.2-0
 
 The packages in the `rosconsole_bridge` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic rosconsole_bridge` on `Fri, 03 Aug 2018 21:37:01 -0000`
