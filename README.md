@@ -1,3 +1,26 @@
+## rosconsole_bridge (noetic) - 0.5.4-1
+
+The packages in the `rosconsole_bridge` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic rosconsole_bridge` on `Wed, 12 Feb 2020 19:36:37 -0000`
+
+The `rosconsole_bridge` package was released.
+
+Version of package(s) in repository `rosconsole_bridge`:
+
+- upstream repository: https://github.com/ros/rosconsole_bridge.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.5.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## rosconsole_bridge (melodic) - 0.5.3-0
 
 The packages in the `rosconsole_bridge` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic rosconsole_bridge` on `Tue, 05 Mar 2019 00:03:38 -0000`
