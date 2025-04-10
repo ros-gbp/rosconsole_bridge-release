@@ -2,6 +2,11 @@
 Changelog for package rosconsole_bridge
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.5 (2025-04-10)
+------------------
+* Update package maintainers. (`#19 <https://github.com/ros/rosconsole_bridge/issues/19>`_)
+* Contributors: Michel Hidalgo
+
 0.5.4 (2020-02-12)
 ------------------
 * Bump CMake version to avoid CMP0048 warning (`#18 <https://github.com/ros/rosconsole_bridge/issues/18>`_)
